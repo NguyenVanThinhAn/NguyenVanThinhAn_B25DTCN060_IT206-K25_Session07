@@ -1,9 +1,8 @@
-- Dùng project bài 7
-- Yêu cầu Cursor AI chỉnh toàn bộ hàm xử lý mảng
-- Nếu n <= 0 trả về 0
-- Với maxValue trả về -1
-- Nếu arr == NULL trả về lỗi
-- Dùng tìm kiếm toàn project để cập nhật
-- Cursor AI sửa đồng loạt các file
-- Áp dụng thay đổi
-- Chạy lại chương trình kiểm tra kết quả
+ - Prompt sử dụng
+- Trong tất cả các hàm xử lý mảng, thêm kiểm tra n nhỏ hơn hoặc bằng 0 và arr bằng NULL
+
+- Kết quả AI trả về
+- AI thêm kiểm tra đầu vào cho tất cả hàm sumArray và maxValue
+- Trả về giá trị an toàn khi dữ liệu không hợp lệ
+- AI cập nhật tất cả nơi gọi hàm
+- Project chạy ổn định hơn
