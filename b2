@@ -1,6 +1,10 @@
-- Yêu cầu AI viết hàm C tính giai thừa
-- Prompt: Viết một hàm C tính giai thừa của số nguyên dương n, có chú thích từng bước
-- Cursor AI sinh code C đầy đủ
-- Code chạy được trong Cursor
-- Có chú thích giải thích từng dòng
-- Chạy thử và kiểm tra kết quả đúng
+= Prompt sử dụng
+- Viết một hàm C tính giai thừa của số nguyên dương n, có chú thích từng bước
+
+- Kết quả AI sinh ra
+- Hàm C đầy đủ, có thư viện stdio.h
+- Sử dụng vòng lặp để tính giai thừa
+- Biến được đặt tên rõ ràng
+- Mỗi dòng đều có chú thích giải thích ý nghĩa
+- Code biên dịch và chạy đúng trong Cursor
+- Kết quả in ra đúng với giá trị giai thừa của n
