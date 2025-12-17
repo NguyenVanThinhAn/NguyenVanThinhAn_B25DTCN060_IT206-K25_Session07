@@ -1,0 +1,13 @@
+- Tạo project C mới bằng Cursor
+- Prompt: Hãy tạo một project C nhỏ gồm nhiều file, trong đó có các hàm sumArray được viết theo nhiều cách khác nhau
+- Tạo các file main.c utils1.c utils2.c utils3.c utils.h
+- utils1 dùng for
+- utils2 dùng while
+- utils3 dùng đệ quy
+- main.c gọi các hàm và in kết quả
+
+- Prompt tiếp theo
+- Tìm tất cả các hàm maxValue trong project này. So sánh sự khác nhau và gợi ý viết một hàm chuẩn duy nhất
+- Cursor AI phân tích toàn bộ project
+- Gợi ý hợp nhất thành một hàm chuẩn
+- Áp dụng thay đổi và chạy thử
