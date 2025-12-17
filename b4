@@ -1,7 +1,18 @@
-- Cho đoạn code C chưa tối ưu
-- Yêu cầu AI chỉnh sửa trực tiếp trong file
-- Prompt: Refactor đoạn code này để ngắn gọn hơn, thêm chú thích từng bước
-- Cursor AI trả về code gọn hơn
-- Đặt tên biến rõ ràng
-- Thêm chú thích dễ hiểu
-- Áp dụng thay đổi và chạy thử thành công
+- Đoạn code ban đầu
+int sumArray(int arr[], int n) {
+    int sum = 0;
+    for (int i = 0; i < n; i++) {
+        sum = sum + arr[i];
+    }
+    return sum;
+}
+
+- Prompt sử dụng
+- Refactor đoạn code này để ngắn gọn hơn, thêm chú thích từng bước
+
+- Kết quả AI trả về
+- Code được viết gọn hơn
+- Biến và logic giữ nguyên chức năng
+- Thêm chú thích giải thích từng bước
+- Code sau refactor dễ đọc hơn
+- Chạy thử cho kết quả giống code ban đầu
