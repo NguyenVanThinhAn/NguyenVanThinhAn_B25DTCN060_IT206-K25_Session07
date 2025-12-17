@@ -1,6 +1,16 @@
-- Đưa code kiểm tra số nguyên tố bị lỗi vào Cursor
-- Prompt: Đây là đoạn code C để kiểm tra số nguyên tố, nhưng đang bị lỗi. Hãy sửa và giải thích lỗi sai
-- Cursor AI phát hiện lỗi logic vòng lặp
-- Sửa điều kiện lặp đúng
-- Giải thích vì sao code cũ sai
-- Áp dụng code mới và chạy lại
+- Đoạn code ban đầu
+int isPrime(int n) {
+    for (int i = 2; i <= n; i++) {
+        if (n % i == 0) return 0;
+    }
+    return 1;
+}
+
+- Prompt sử dụng
+- Đây là đoạn code C để kiểm tra số nguyên tố, nhưng đang bị lỗi. Hãy sửa và giải thích lỗi sai
+
+- Kết quả AI trả về
+- AI phát hiện lỗi logic do vòng lặp chia cho chính n
+- AI sửa điều kiện lặp chỉ đến căn bậc hai của n
+- AI thêm kiểm tra n nhỏ hơn 2
+- AI giải thích vì sao code cũ luôn sai với n lớn hơn 2
