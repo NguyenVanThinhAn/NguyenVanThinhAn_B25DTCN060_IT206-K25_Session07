@@ -1,0 +1,12 @@
+Bài 1
+
+- Mở Cursor
+- Yêu cầu AI giải thích các thành phần giao diện
+- Thanh sidebar hiển thị cây thư mục project
+- Editor dùng để viết và chỉnh sửa code
+- Panel AI chat dùng để hỏi và nhận hỗ trợ
+- Thanh trạng thái hiển thị thông tin file và môi trường
+
+- Viết prompt yêu cầu AI hướng dẫn tạo file mới
+- Prompt: Hãy giải thích các thành phần chính trong giao diện Cursor IDE
+- Prompt: Hãy hướng dẫn tôi cách tạo file mới trong Cursor và lưu file với tên hello.c
