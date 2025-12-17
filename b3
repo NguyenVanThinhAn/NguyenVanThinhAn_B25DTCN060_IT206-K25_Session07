@@ -1,5 +1,8 @@
-- Đặt prompt so sánh Cursor AI và GitHub Copilot
-- Prompt: So sánh cách Cursor AI sinh code khi viết hàm tính tổng mảng với GitHub Copilot. Cái nào phù hợp hơn cho người mới học lập trình
-- Cursor AI phân tích chi tiết
-- Nêu rõ Cursor AI giải thích nhiều hơn
-- GitHub Copilot phù hợp người đã có nền tảng
+- Prompt sử dụng
+- So sánh cách Cursor AI sinh code khi viết hàm tính tổng mảng với GitHub Copilot. Cái nào phù hợp hơn cho người mới học lập trình
+
+- Kết quả AI trả về
+- Cursor AI sinh code kèm giải thích chi tiết
+- Cursor AI có khả năng chỉnh sửa trực tiếp trong file
+- GitHub Copilot chủ yếu gợi ý code ngắn, ít giải thích
+- AI kết luận Cursor AI phù hợp hơn cho người mới vì dễ hiểu và có hướng dẫn
