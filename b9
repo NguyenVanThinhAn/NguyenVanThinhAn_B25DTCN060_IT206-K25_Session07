@@ -1,0 +1,9 @@
+- Dùng project bài 7
+- Yêu cầu Cursor AI tạo file benchmark.c
+- So sánh hiệu năng maxValue1 maxValue2 maxValue3
+- Benchmark với mảng 1000000 phần tử
+- Đo thời gian bằng clock hoặc time.h
+- Cursor AI gom tất cả hàm maxValue
+- Sinh code benchmark đầy đủ
+- Áp dụng thay đổi
+- Chạy benchmark và ghi nhận kết quả
