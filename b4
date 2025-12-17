@@ -1,0 +1,7 @@
+- Cho đoạn code C chưa tối ưu
+- Yêu cầu AI chỉnh sửa trực tiếp trong file
+- Prompt: Refactor đoạn code này để ngắn gọn hơn, thêm chú thích từng bước
+- Cursor AI trả về code gọn hơn
+- Đặt tên biến rõ ràng
+- Thêm chú thích dễ hiểu
+- Áp dụng thay đổi và chạy thử thành công
