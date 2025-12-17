@@ -1,6 +1,17 @@
-- Nhập hàm JavaScript chưa có chú thích
-- Prompt: Refactor hàm JavaScript sau để tối ưu hơn và thêm comment giải thích từng dòng
-- Cursor AI tối ưu code
+- Đoạn code ban đầu
+function reverseArray(arr) {
+  let newArr = [];
+  for (let i = arr.length - 1; i >= 0; i--) {
+    newArr.push(arr[i]);
+  }
+  return newArr;
+}
+
+- Prompt sử dụng
+- Refactor hàm JavaScript sau để tối ưu hơn và thêm comment giải thích từng dòng
+
+- Kết quả AI trả về
+- AI giữ nguyên logic nhưng viết gọn hơn
 - Thêm comment giải thích từng bước
-- Code dễ đọc hơn
-- Áp dụng và kiểm tra kết quả đúng
+- Giải thích rõ cơ chế đảo mảng
+- Code dễ hiểu hơn cho người mới
